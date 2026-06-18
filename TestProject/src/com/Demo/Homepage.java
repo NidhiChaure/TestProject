@@ -12,6 +12,9 @@ public class Homepage {
 		}
 			System.out.println(rev);
 		
+			int a=10, b=20,c=0;
+			c=a+b;
+			System.out.println("the value of c is:"+c);
 
 }
 }
